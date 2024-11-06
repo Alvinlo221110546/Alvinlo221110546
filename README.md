@@ -9,7 +9,7 @@ Saya memiliki pengalaman luas dalam mengembangkan berbagai jenis proyek, mulai d
 Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek saya:
 
 ### **Languages**:
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
   <div style="text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/python.png" style="width: 48px; height: 48px;" /> 
     <span>Python</span>
@@ -37,7 +37,7 @@ Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek
 </div>
 
 ### **Frameworks**:
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
   <div style="text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" style="width: 48px; height: 48px;" />
     <span>React</span>
@@ -65,7 +65,7 @@ Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek
 </div>
 
 ### **Databases**:
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
   <div style="text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" style="width: 48px; height: 48px;" /> 
     <span>MongoDB</span>
@@ -81,7 +81,7 @@ Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek
 </div>
 
 ### **Tools**:
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
   <div style="text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/git.png" style="width: 48px; height: 48px;" />
     <span>Git</span>
