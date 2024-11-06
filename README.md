@@ -9,7 +9,7 @@ Saya memiliki pengalaman luas dalam mengembangkan berbagai jenis proyek, mulai d
 Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek saya:
 
 ### **Languages**:
-<div align="center">
+<div align="left">
   <a href="#"><img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" alt="Python" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/go.png" width="48" height="48" alt="Go" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48" alt="JavaScript" /></a>&nbsp;
@@ -19,23 +19,22 @@ Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek
 </div>
 
 ### **Frameworks**:
-<div align="center">
+<div align="left">
   <a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" alt="React" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48" alt="Express" /></a>&nbsp;
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/php.png" width="48" height="48" alt="Laravel" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/laravel.png" width="48" height="48" alt="Laravel" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/flutter.png" width="48" height="48" alt="Flutter" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48" alt="Bootstrap" /></a>
 </div>
 
 ### **Databases**:
-<div align="center">
+<div align="left">
   <a href="#"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48" height="48" alt="MongoDB" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/mysql.png" width="48" height="48" alt="MySQL" /></a>&nbsp;
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/sqlite.png" width="48" height="48" alt="SQLite" /></a>
 </div>
 
 ### **Tools**:
-<div align="center">
+<div align="left">
   <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" alt="Git" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="48" height="48" alt="Google Colab" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/jenkins.png" width="48" height="48" alt="Jenkins" /></a>&nbsp;
@@ -106,9 +105,8 @@ Saya selalu terbuka untuk berdiskusi tentang proyek baru, peluang kolaborasi, at
 
 ## 🔧 Tools & Technologies I Use
 - **Version Control**: Git, GitHub
-- **Text Editors**: VSCode, Sublime Text
-- **Project Management**: Trello, Jira
-- **CI/CD**: Jenkins, GitHub Actions
+- **Text Editors**: VSCode
+- **Project Management**: Trello
 
 ---
 
