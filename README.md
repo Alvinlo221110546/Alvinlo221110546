@@ -17,7 +17,7 @@ Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek
 - <img src="https://img.icons8.com/color/48/000000/dart.png"/> Dart
 
 ### **Frameworks**:
-- <img src="https://img.icons8.com/color/48/000000/react.png"/> React
+- <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React
 - <img src="https://img.icons8.com/color/48/000000/express.png"/> Express
 - <img src="https://img.icons8.com/color/48/000000/laravel.png"/> Laravel
 - <img src="https://img.icons8.com/color/48/000000/flutter.png"/> Flutter
