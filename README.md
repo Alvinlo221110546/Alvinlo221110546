@@ -138,30 +138,29 @@ Aplikasi CRUD (Create, Read, Update, Delete) yang efisien dengan backend **Go** 
 - **Teknologi**: Go, Laravel
 - **Fitur utama**:
   - Antarmuka pengguna yang responsif.
-  - Efisiensi pengelolaan data melalui operasi CRUD.
+  - Efisiensi backend untuk pengelolaan data.
 
 ### 5. **Mobile Frontend Aplikasi Quiz dengan Flutter**
-Membuat aplikasi quiz mobile menggunakan **Flutter**, memungkinkan pengguna untuk berinteraksi dengan soal-soal dalam kategori tertentu.
+Aplikasi quiz interaktif untuk perangkat mobile yang dibangun menggunakan **Flutter**.
 - **Teknologi**: Flutter
 - **Fitur utama**:
-  - Kategori soal yang dapat dipilih.
-  - Timer dan hasil akhir setelah quiz selesai.
+  - Pilihan kategori soal dan hasil akhir.
+  - Timer untuk batas waktu pengerjaan.
 
 ### 6. **Deep Fake AI dengan Google Colab**
-Proyek AI untuk menciptakan **Deep Fake** video dengan menggunakan **Machine Learning** untuk menggantikan wajah dalam video.
+Model AI untuk menciptakan video **Deep Fake** dengan menggantikan wajah dalam video.
 - **Teknologi**: Python, TensorFlow, Google Colab
 - **Fitur utama**:
-  - Manipulasi wajah dalam video berdasarkan dataset yang dilatih.
+  - Manipulasi wajah dalam video menggunakan dataset yang telah dilatih.
 
 ## 🌱 Currently Learning
-Saat ini, saya sedang mendalami topik-topik berikut:
-
-- **Pengembangan Aplikasi Web**: Meningkatkan keterampilan dalam framework terbaru seperti **Next.js** dan **Nuxt.js**.
-- **Mobile Development**: Menyempurnakan aplikasi mobile dengan **React Native** dan **Flutter**.
-- **AI & Machine Learning**: Menyelami lebih dalam **Deep Learning**, **Computer Vision**, serta penerapan **AI** di dunia nyata.
+Saya terus memperdalam pengetahuan saya dalam beberapa topik berikut:
+- **Pengembangan Aplikasi Web**: Framework terbaru seperti **Next.js** dan **Nuxt.js**.
+- **Pengembangan Aplikasi Mobile**: Mengasah keterampilan saya di **Flutter** dan **React Native**.
+- **AI & Machine Learning**: Menyempurnakan pemahaman tentang **Deep Learning**, **Computer Vision**, dan penerapan **AI**.
 
 ## 📞 Let's Connect!
-Selalu terbuka untuk berbicara mengenai proyek baru, peluang kolaborasi, atau sekadar berdiskusi tentang teknologi.
+Saya selalu terbuka untuk berdiskusi tentang proyek baru, peluang kolaborasi, atau pertanyaan terkait teknologi.
 
 - [GitHub](https://github.com/Alvinlo221110546)
 - [Email](mailto:alvin.lo2005@gmail.com)
@@ -175,7 +174,7 @@ Selalu terbuka untuk berbicara mengenai proyek baru, peluang kolaborasi, atau se
 ---
 
 ## ✨ Acknowledgments
-Terima kasih kepada komunitas open-source yang telah memberi kontribusi besar dan memungkinkan kita semua untuk mengembangkan proyek-proyek ini dengan lebih baik!
+Terima kasih kepada komunitas open-source yang memberikan kontribusi luar biasa dalam pengembangan alat-alat yang saya gunakan.
 
 ---
 
