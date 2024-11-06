@@ -9,39 +9,99 @@ Saya memiliki pengalaman luas dalam mengembangkan berbagai jenis proyek, mulai d
 Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek saya:
 
 ### **Languages**:
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/python.png"/> <span>Python</span>
-  <img src="https://img.icons8.com/color/48/000000/go.png"/> <span>Go</span>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <span>JavaScript</span>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <span>HTML</span>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/> <span>CSS</span>
-  <img src="https://img.icons8.com/color/48/000000/dart.png"/> <span>Dart</span>
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/python.png" style="width: 48px; height: 48px;" /> 
+    <span>Python</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/go.png" style="width: 48px; height: 48px;" /> 
+    <span>Go</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 48px; height: 48px;" /> 
+    <span>JavaScript</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="width: 48px; height: 48px;" /> 
+    <span>HTML</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" style="width: 48px; height: 48px;" /> 
+    <span>CSS</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/dart.png" style="width: 48px; height: 48px;" /> 
+    <span>Dart</span>
+  </div>
 </div>
 
 ### **Frameworks**:
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <span>React</span>
-  <img src="https://img.icons8.com/color/48/000000/express.png"/> <span>Express</span>
-  <img src="https://img.icons8.com/color/48/000000/laravel.png"/> <span>Laravel</span>
-  <img src="https://img.icons8.com/color/48/000000/flutter.png"/> <span>Flutter</span>
-  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> <span>Tailwind CSS</span>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <span>Bootstrap</span>
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" style="width: 48px; height: 48px;" />
+    <span>React</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/express.png" style="width: 48px; height: 48px;" />
+    <span>Express</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/laravel.png" style="width: 48px; height: 48px;" />
+    <span>Laravel</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/flutter.png" style="width: 48px; height: 48px;" />
+    <span>Flutter</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" style="width: 48px; height: 48px;" />
+    <span>Tailwind CSS</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="width: 48px; height: 48px;" />
+    <span>Bootstrap</span>
+  </div>
 </div>
 
 ### **Databases**:
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <span>MongoDB</span>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png"/> <span>MySQL</span>
-  <img src="https://img.icons8.com/color/48/000000/sqlite.png"/> <span>SQLite</span>
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" style="width: 48px; height: 48px;" /> 
+    <span>MongoDB</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/mysql.png" style="width: 48px; height: 48px;" />
+    <span>MySQL</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/sqlite.png" style="width: 48px; height: 48px;" />
+    <span>SQLite</span>
+  </div>
 </div>
 
 ### **Tools**:
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/git.png"/> <span>Git</span>
-  <img src="https://img.icons8.com/color/48/000000/google-colab.png"/> <span>Google Colab</span>
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> <span>Jenkins</span>
-  <img src="https://img.icons8.com/color/48/000000/postman.png"/> <span>Postman</span>
-  <img src="https://img.icons8.com/color/48/000000/docker.png"/> <span>Docker</span>
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/git.png" style="width: 48px; height: 48px;" />
+    <span>Git</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/google-colab.png" style="width: 48px; height: 48px;" />
+    <span>Google Colab</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/jenkins.png" style="width: 48px; height: 48px;" />
+    <span>Jenkins</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/postman.png" style="width: 48px; height: 48px;" />
+    <span>Postman</span>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" style="width: 48px; height: 48px;" />
+    <span>Docker</span>
+  </div>
 </div>
 
 ## 💡 Key Highlights & Accomplishments
