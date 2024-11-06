@@ -9,30 +9,30 @@ Saya memiliki pengalaman luas dalam mengembangkan berbagai jenis proyek, mulai d
 Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek saya:
 
 ### **Languages**:
-- ![Python](https://img.icons8.com/ios-filled/50/000000/python.png) Python
-- ![Go](https://img.icons8.com/ios-filled/50/000000/golang.png) Go
-- ![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png) JavaScript
-- ![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png) CSS
-- ![Dart](https://img.icons8.com/ios-filled/50/000000/dart.png) Dart
+- <img src="https://img.icons8.com/color/48/000000/python.png"/> Python
+- <img src="https://img.icons8.com/color/48/000000/go.png"/> Go
+- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+- <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
+- <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+- <img src="https://img.icons8.com/color/48/000000/dart.png"/> Dart
 
 ### **Frameworks**:
-- ![React](https://img.icons8.com/ios-filled/50/000000/react.png) React
-- ![Express](https://img.icons8.com/ios-filled/50/000000/express.png) Express
-- ![Laravel](https://img.icons8.com/ios-filled/50/000000/laravel.png) Laravel
-- ![Flutter](https://img.icons8.com/ios-filled/50/000000/flutter.png) Flutter
-- ![Tailwind CSS](https://img.icons8.com/ios-filled/50/000000/tailwind-css.png) Tailwind CSS
-- ![Bootstrap](https://img.icons8.com/ios-filled/50/000000/bootstrap.png) Bootstrap
+- <img src="https://img.icons8.com/color/48/000000/react.png"/> React
+- <img src="https://img.icons8.com/color/48/000000/express.png"/> Express
+- <img src="https://img.icons8.com/color/48/000000/laravel.png"/> Laravel
+- <img src="https://img.icons8.com/color/48/000000/flutter.png"/> Flutter
+- <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> Tailwind CSS
+- <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
 
 ### **Databases**:
-- ![MongoDB](https://img.icons8.com/ios-filled/50/000000/mongodb.png) MongoDB
-- ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png) MySQL
-- ![SQLite](https://img.icons8.com/ios-filled/50/000000/sqlite.png) SQLite
+- <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
+- <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL
+- <img src="https://img.icons8.com/color/48/000000/sqlite.png"/> SQLite
 
 ### **Tools**:
-- ![Git](https://img.icons8.com/ios-filled/50/000000/git.png) Git
-- ![Google Colab](https://img.icons8.com/ios-filled/50/000000/google-colab.png) Google Colab
-- ![Postman](https://img.icons8.com/ios-filled/50/000000/postman.png) Postman
+- <img src="https://img.icons8.com/color/48/000000/git.png"/> Git
+- <img src="https://img.icons8.com/color/48/000000/google-colab.png"/> Google Colab
+- <img src="https://img.icons8.com/color/48/000000/postman.png"/> Postman
 
 ## 💡 Key Highlights & Accomplishments
 - **Sistem Manajemen Restoran**: Membangun aplikasi manajemen restoran dengan kemampuan pemesanan dan transaksi real-time.
