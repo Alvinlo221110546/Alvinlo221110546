@@ -22,8 +22,7 @@ Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek
 <div align="left">
   <a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" alt="React" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48" alt="Express" /></a>&nbsp;
-  <a href="#"><script src="https://code.iconify.design/2/2.0.0/iconify.min.js"></script>
-<span class="iconify" data-icon="logos:laravel" data-inline="false"></span>
+  <a href="#"><img src="https://th.bing.com/th?id=OIP.s7ZEqkmVrugV-4MdcVxMaAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.6&pid=3.1&rm=2" width="48" height="48" alt="Express" />
 </a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/flutter.png" width="48" height="48" alt="Flutter" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48" alt="Bootstrap" /></a>
