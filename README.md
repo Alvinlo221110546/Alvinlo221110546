@@ -9,99 +9,38 @@ Saya memiliki pengalaman luas dalam mengembangkan berbagai jenis proyek, mulai d
 Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek saya:
 
 ### **Languages**:
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/python.png" style="width: 48px; height: 48px;" /> 
-    <span>Python</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/go.png" style="width: 48px; height: 48px;" /> 
-    <span>Go</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 48px; height: 48px;" /> 
-    <span>JavaScript</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="width: 48px; height: 48px;" /> 
-    <span>HTML</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" style="width: 48px; height: 48px;" /> 
-    <span>CSS</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/dart.png" style="width: 48px; height: 48px;" /> 
-    <span>Dart</span>
-  </div>
+<div align="center">
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" alt="Python" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/go.png" width="48" height="48" alt="Go" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48" alt="JavaScript" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" alt="HTML" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" alt="CSS" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/dart.png" width="48" height="48" alt="Dart" /></a>
 </div>
 
 ### **Frameworks**:
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" style="width: 48px; height: 48px;" />
-    <span>React</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/express.png" style="width: 48px; height: 48px;" />
-    <span>Express</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/laravel.png" style="width: 48px; height: 48px;" />
-    <span>Laravel</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/flutter.png" style="width: 48px; height: 48px;" />
-    <span>Flutter</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" style="width: 48px; height: 48px;" />
-    <span>Tailwind CSS</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="width: 48px; height: 48px;" />
-    <span>Bootstrap</span>
-  </div>
+<div align="center">
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" alt="React" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48" alt="Express" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/php.png" width="48" height="48" alt="Laravel" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/flutter.png" width="48" height="48" alt="Flutter" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48" alt="Bootstrap" /></a>
 </div>
 
 ### **Databases**:
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" style="width: 48px; height: 48px;" /> 
-    <span>MongoDB</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/mysql.png" style="width: 48px; height: 48px;" />
-    <span>MySQL</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/sqlite.png" style="width: 48px; height: 48px;" />
-    <span>SQLite</span>
-  </div>
+<div align="center">
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48" height="48" alt="MongoDB" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/mysql.png" width="48" height="48" alt="MySQL" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/sqlite.png" width="48" height="48" alt="SQLite" /></a>
 </div>
 
 ### **Tools**:
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/git.png" style="width: 48px; height: 48px;" />
-    <span>Git</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/google-colab.png" style="width: 48px; height: 48px;" />
-    <span>Google Colab</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/jenkins.png" style="width: 48px; height: 48px;" />
-    <span>Jenkins</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/postman.png" style="width: 48px; height: 48px;" />
-    <span>Postman</span>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/docker.png" style="width: 48px; height: 48px;" />
-    <span>Docker</span>
-  </div>
+<div align="center">
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" alt="Git" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="48" height="48" alt="Google Colab" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/jenkins.png" width="48" height="48" alt="Jenkins" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/postman.png" width="48" height="48" alt="Postman" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/docker.png" width="48" height="48" alt="Docker" /></a>
 </div>
 
 ## 💡 Key Highlights & Accomplishments
