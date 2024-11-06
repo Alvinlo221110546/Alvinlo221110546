@@ -22,7 +22,7 @@ Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek
 <div align="left">
   <a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" alt="React" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48" alt="Express" /></a>&nbsp;
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/laravel.png" width="48" height="48" alt="Laravel" /></a>&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/laravel.png" style="width: 48px; height: 48px" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/flutter.png" width="48" height="48" alt="Flutter" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48" alt="Bootstrap" /></a>
 </div>
@@ -37,9 +37,7 @@ Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek
 <div align="left">
   <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" alt="Git" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="48" height="48" alt="Google Colab" /></a>&nbsp;
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/jenkins.png" width="48" height="48" alt="Jenkins" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/postman.png" width="48" height="48" alt="Postman" /></a>&nbsp;
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/docker.png" width="48" height="48" alt="Docker" /></a>
 </div>
 
 ## 💡 Key Highlights & Accomplishments
