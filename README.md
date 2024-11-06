@@ -22,7 +22,8 @@ Berikut adalah beberapa alat dan teknologi yang saya gunakan dalam proyek-proyek
 <div align="left">
   <a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" alt="React" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48" alt="Express" /></a>&nbsp;
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/laravel.png" style="width: 48px; height: 48px" /></a>&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Laravel_logo.svg" alt="Laravel" width="48" height="48">
+</a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/flutter.png" width="48" height="48" alt="Flutter" /></a>&nbsp;
   <a href="#"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48" alt="Bootstrap" /></a>
 </div>
